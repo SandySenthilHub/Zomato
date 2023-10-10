@@ -1,0 +1,15 @@
+{
+
+  "scripts": {
+    "build":"npm i"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2",
+    "nodemailer": "^6.6.0",
+    "nodemon": "^2.0.22",
+    "stripe": "^8.148.0",
+    "uuid": "^8.3.2"
+  }
+}
